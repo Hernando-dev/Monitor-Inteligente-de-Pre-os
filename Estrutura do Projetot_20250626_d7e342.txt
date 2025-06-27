@@ -1,0 +1,13 @@
+price-tracker-pro/
+│
+├── .streamlit/
+│   └── config.toml          # Configurações do Streamlit
+│
+├── src/
+│   ├── __init__.py
+│   ├── main.py              # Código principal do dashboard
+│   └── AdvancedPriceTracker.py  # Classe de rastreamento de preços
+│
+├── requirements.txt         # Dependências do projeto
+├── README.md                # Documentação
+└── .gitignore
